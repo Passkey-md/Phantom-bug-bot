@@ -1,8 +1,8 @@
-//base by DGXeon x AkmalMods
-//YouTube: @AkmalMods
-//Instagram: akmal_mods
-//Telegram: t.me/Darkfamly
-//want more free bot scripts? subscribe to my youtube channel: https://youtube.com/@AkmalMods
+//base by DGXeon x Phantom
+//YouTube: @phantom-hacks01
+//Instagram: Phantom-hacks01
+//Telegram: t.me/Hackerzone25
+//want more free bot scripts? subscribe to my youtube channel: https://youtube.com/@phantom-hacks01
 
 require('./settings')
 const pino = require('pino')
