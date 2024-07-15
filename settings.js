@@ -1,33 +1,33 @@
-//base by DGXeon x AkmalMods
-//YouTube: @AkmalMods
-//Instagram: akmal_mods
-//Telegram: t.me/Darkfamly
-//want more free bot scripts? subscribe to my youtube channel: https://youtube.com/@AkmalMods
+//base by DGXeon x Phantom
+//YouTube: @phantom-hacks01
+//Instagram: phantom-hacks01
+//Telegram: t.me/Hackerzone25
+//want more free bot scripts? subscribe to my youtube channel: https://youtube.com/@phantom-hacks01
 
 const fs = require('fs')
 const chalk = require('chalk')
 
 //contact details
-global.ownernomer = "6285366273208"
-global.ownername = "*Abexz"
-global.ytname = "YT: AbexzCruell"
+global.ownernomer = "2348108395270"
+global.ownername = "*Phantom+Hacker"
+global.ytname = "YT: phantom-hacks01"
 global.socialm = ""
 global.location = "India, Mizoram, Aizawl"
 
-global.ownernumber = '6285366273208'  //creator number
-global.ownername = 'Abexz Bug' //owner name
-global.botname = 'Bot Bug' //name of the bot
+global.ownernumber = '2348108395270'  //creator number
+global.ownername = 'Phantom+Hacker' //owner name
+global.botname = 'xbug bot' //name of the bot
 
 //sticker details
-global.packname = 'Sticker ByAkmalMods'
-global.author = 'Hallo\n\nContact: 6285366273208'
+global.packname = 'Sticker By Phantom'
+global.author = 'Hallo\n\nContact: 2348108395270'
 
 //console view/theme
-global.themeemoji = '🪀'
-global.wm = "AkmalMods"
+global.themeemoji = '😡'
+global.wm = "Phantom"
 
 //theme link
-global.link = 'https://chat.whatsapp.com/KHf7BwDSd6M5ov'
+global.link = 'https://whatsapp.com/channel/0029VaBROanEquiLW3ii1n47'
 
 //custom prefix
 global.prefa = ['','!','.','#','&']
