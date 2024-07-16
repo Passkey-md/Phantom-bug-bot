@@ -8,13 +8,13 @@ const fs = require('fs')
 const chalk = require('chalk')
 
 //contact details
-global.ownernomer = "2348108395270"
+global.ownernomer = "255678774865"
 global.ownername = "*Phantom+Hacker"
-global.ytname = "YT: phantom-hacks01"
+global.ytname = "YT: Assistant-hacks01"
 global.socialm = ""
 global.location = "India, Mizoram, Aizawl"
 
-global.ownernumber = '2348108395270'  //creator number
+global.ownernumber = '255678774865'  //creator number
 global.ownername = 'Phantom+Hacker' //owner name
 global.botname = 'xbug bot' //name of the bot
 
@@ -33,7 +33,7 @@ global.link = 'https://whatsapp.com/channel/0029VaBROanEquiLW3ii1n47'
 global.prefa = ['','!','.','#','&']
 
 //false=disable and true=enable
-global.autoRecording = false //auto recording
+global.autoRecording = true //auto recording
 global.autoTyping = false //auto typing
 global.autorecordtype = false //auto typing + recording
 global.autoread = false //auto read messages
