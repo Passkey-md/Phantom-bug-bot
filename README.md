@@ -43,5 +43,5 @@ git clone https://github.com/Passkey-md/Phantom-bug-bot
 cd Phantom-bug-bot
 yarn install 
 npm i
-npm start
+please start ishan sir
 
