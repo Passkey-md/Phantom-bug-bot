@@ -8,8 +8,8 @@ const fs = require('fs')
 const chalk = require('chalk')
 
 //contact details
-global.ownernomer = "2348108395270"
-global.ownername = "*Phantom+Hacker"
+global.ownernomer = "50943212342"
+global.ownername = "TAP-NO|ON👾💀☠️🤖"
 global.ytname = "YT: phantom-hacks01"
 global.socialm = ""
 global.location = "India, Mizoram, Aizawl"
@@ -50,15 +50,15 @@ global.typemenu = 'v1'
 
 //reply messages
 global.mess = {
-    done: 'Done !',
-    prem: 'This feature can be used by premium user only',
-    admin: 'This feature can be used by admin only',
-    botAdmin: 'This feature can only be used when the bot is a group admin ',
-    owner: 'This feature can be used by owner only',
-    group: 'This feature is only for groups',
-    private: 'This feature is only for private chats',
-    wait: 'In process... ',    
-    error: 'Error!',
+    done: 'Mwen fini ui grimas🙄!',
+    prem: 'Soumoun kòmand sa pa pou ou',
+    admin: 'Kòman nou fè anlè konsa noumenm 🤨',
+    botAdmin: 'Tenten mete mèt bot lan admin pou use bot lan😑 ',
+    owner: 'Ou te fout gen bot malpròpte',
+    group: 'Nèg sòt kòmand sa se pou gwoup li ye sèlman😠',
+    private: 'Tchanpan kòmand sa se pou mesaj prive li ye😡',
+    wait: 'Tann mwen...🥱 ',    
+    error: 'Ou voye kaka zanmi😂!',
 }
 
 global.thumb = fs.readFileSync('./modsMedia/thumb.jpg')
